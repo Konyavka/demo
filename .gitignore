@@ -1,0 +1,13 @@
+*.bak
+logs/
+*.log
+*.lock
+
+bin/
+
+*.cfe
+*.epf
+*.erf
+*.dt
+
+temp/
