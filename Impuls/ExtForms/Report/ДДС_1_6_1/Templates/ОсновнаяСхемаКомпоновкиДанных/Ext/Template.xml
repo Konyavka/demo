@@ -1157,14 +1157,14 @@
 						<dcsat:value xsi:type="v8:LocalStringType">
 							<v8:item>
 								<v8:lang>ru</v8:lang>
-								<v8:content>Индивидуальные показатели выполнения прихода денежных средств по менеджерам</v8:content>
+								<v8:content>Индивидуальные показатели выполнения прихода денежных средств </v8:content>
 							</v8:item>
 						</dcsat:value>
 					</dcsat:item>
 					<dcsat:appearance>
 						<dcscor:item>
 							<dcscor:parameter>Шрифт</dcscor:parameter>
-							<dcscor:value xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xsi:type="v8ui:Font" ref="style:ВажнаяНадписьШрифт" height="12" kind="StyleItem" scale="100"/>
+							<dcscor:value xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xsi:type="v8ui:Font" ref="style:ВажнаяНадписьШрифт" height="12" kind="StyleItem"/>
 						</dcscor:item>
 					</dcsat:appearance>
 				</dcsat:tableCell>
